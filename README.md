@@ -15,6 +15,7 @@
 
 # 💻 Tech Stack:
 <div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -31,8 +32,8 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![Kinata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KinataDewa&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KinataDewa&theme=tokyonight&hide_border=true)
+![Kinata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KinataDewa&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KinataDewa&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinataDewa&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
